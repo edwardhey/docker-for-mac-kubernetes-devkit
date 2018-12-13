@@ -70,6 +70,7 @@ Now, you will get the client config file at `./local/docker-for-mac.ovpn`. Add t
 ``` Config
 route 192.168.65.0 255.255.255.0
 route 10.96.0.0 255.240.0.0
+route 10.43.0.0 255.240.0.0
 ```
 
 ### Test Network
